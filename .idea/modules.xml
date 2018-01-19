@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GAN_learn.iml" filepath="$PROJECT_DIR$/.idea/GAN_learn.iml" />
+      <module fileurl="file:///media/lm/Common/Output/Pycharm/BDCI2017/LogoRecognition/.idea/LogoRecognition.iml" filepath="/media/lm/Common/Output/Pycharm/BDCI2017/LogoRecognition/.idea/LogoRecognition.iml" />
+      <module fileurl="file:///media/lm/Common/Output/Pycharm/tensorflowTrain/.idea/tensorflowTrain.iml" filepath="/media/lm/Common/Output/Pycharm/tensorflowTrain/.idea/tensorflowTrain.iml" />
+    </modules>
+  </component>
+</project>
